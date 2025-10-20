@@ -1,5 +1,7 @@
 # Home assistant add-on: Fusion RSS
 
+Is Home Assistant even updating from this? 
+
 A lightweight RSS feed aggregator and reader.
 
 Key features include:
